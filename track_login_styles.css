@@ -1,0 +1,81 @@
+.widefat {width: auto;}
+.ss-list-width {min-width:10%}
+.ss-form-width {width:100%}
+.ss-th-width {width:25%}
+.ss-field-width {width:75%}
+
+.edit_link:hover{
+	text-decoration: underline;
+}
+#update_table{
+	width: 100%;
+}
+tr th.update_titles{
+	width:20%;
+}
+td input,td textarea{
+	width: 100%;
+}
+td textarea{
+	height: 150px;
+}
+
+
+#search {
+    border: 1px solid #cccccc;
+    display: inline-block;
+    float: right;
+    padding: 7px;
+    width: 250px;
+	margin-bottom: 15px;
+}
+
+
+.we.button{
+    display: inline-block;
+    float: left;
+    margin: 10px 5px;
+    width: 40%;
+}
+.we.button.delete{
+	background-color:#BA6162;
+	color: #fff;
+}
+.add_new {
+    background-color: #054057;
+    color: #ffffff;
+    display: block;
+    font-weight: bold;
+    margin: 5px 0;
+    padding: 6px 15px;
+    text-decoration: none;
+}
+.add_new:hover {
+	opacity: .7;
+    color: #ffffff;
+}
+
+.manage-column.small{
+	max-width:25%;
+}
+
+h2.left{
+	float: left;
+	display: inline-block;
+	width: auto;
+}
+h2.right{
+	float: right;
+	display: inline-block;
+	width: auto;
+}
+
+th.title{
+	font-weight: bold;
+}
+
+
+
+
+
+
